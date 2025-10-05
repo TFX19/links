@@ -1,37 +1,37 @@
 # 🔗 App Links
 
-> Projeto desenvolvido durante o **Curso Introdutório de React Native com Expo** da [Rocketseat](https://app.rocketseat.com.br/journey/expo-com-react-native-curso-introdutorio/overview)
+> Project developed during the **Introductory React Native with Expo Course** by [Rocketseat](https://app.rocketseat.com.br/journey/expo-com-react-native-curso-introdutorio/overview)
 
 ---
 
-## 📱 Sobre o projeto
+## 📱 About the project
 
-O **App Links** é uma aplicação mobile criada para gerenciar e organizar os seus links favoritos de forma simples e prática.  
-Com ele, é possível cadastrar, visualizar e remover links diretamente do smartphone — tudo isso com uma interface moderna e intuitiva.
+**App Links** is a mobile application designed to manage and organize your favorite links easily and efficiently.  
+It allows you to add, view, and delete links directly from your smartphone — all through a clean, modern, and user-friendly interface.
 
-Este projeto foi desenvolvido como parte do curso **"React Native com Expo – Curso Introdutório"** da Rocketseat, e teve como objetivo introduzir conceitos fundamentais de **desenvolvimento mobile com React Native e Expo**.
+This project was created as part of Rocketseat’s **“Introductory React Native with Expo”** course, aiming to introduce the core concepts of **mobile development using React Native and Expo**.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Technologies used
 
 - **React Native**
 - **Expo**
 - **Expo Router**
 - **TypeScript**
-- **Hooks (useState, useEffect, etc.)**
+- **React Hooks (useState, useEffect, etc.)**
 - **AsyncStorage**
-- **Estilização com StyleSheet**
-- **Componentização e navegação entre telas**
+- **StyleSheet styling**
+- **Component-based architecture & screen navigation**
 
 ---
 
-## 🎯 Funcionalidades
+## 🎯 Features
 
-✅ Registar novos links  
-✅ Listar todos os links salvos  
-✅ Excluir links existentes  
-✅ Design responsivo e intuitivo  
-✅ Armazenamento local (sem precisar de internet)  
+✅ Add new links  
+✅ List all saved links  
+✅ Delete existing links  
+✅ Responsive and intuitive design  
+✅ Local storage (works offline)  
 
 ---
